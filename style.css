@@ -50,10 +50,6 @@ li {
     color: #333;
 }
 
-.top-row {
-    display: grid;
-    /* grid-template-columns: repeat(12, 1fr); */
-}
 
 .social-links img {
     width: 24px; /* Adjust based on your preference */
